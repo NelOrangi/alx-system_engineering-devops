@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 's/A/c/' | sed -i 's/Z/e/'
+sed -i 's/A/c/' ./ | sed -i 's/Z/e/' ./
