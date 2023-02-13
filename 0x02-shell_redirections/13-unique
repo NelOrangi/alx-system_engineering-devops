@@ -1,2 +1,2 @@
 #1/bin/bash
-uniq
+sort | uniq_u
