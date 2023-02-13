@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq
+ls -la > ls_cwd_content 
